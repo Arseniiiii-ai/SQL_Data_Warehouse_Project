@@ -41,12 +41,3 @@ This project is licensed under the [MIT License](LICENSE), allowing you to use, 
 ## 🙋‍♂️ About Me
 
 Hi there! I'm **Arsen Baqtygaliev Quanishuly**.I'm first degree student in Astana IT University and i love to share something helpful for people who want to develop knowledge in Data Science, Data Engineering, and Data Analytics))  
-
-
-
-
-
-
-
-
-Ask ChatGPT
