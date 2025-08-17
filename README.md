@@ -22,6 +22,15 @@ Build a modern SQL Server–based data warehouse to integrate sales data, suppor
 
 ---
 
+<img width="1048" height="597" alt="PNG Draw io (3)" src="https://github.com/user-attachments/assets/92569bbe-4101-4197-98ee-c94b0c7367f4" />
+
+**1. Bronze Layer:** Stores raw data as is from the source systems. Data is ingested from CSV Files into SQL Server Database
+**2. Silver Layer:** This layer includes data cleansing, strandardization, and normalization processes to prepare data for analysis.
+**3. Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
+
+
+---
+
 ### BI: Analytics & Reporting (Data Analytics)
 
 #### Objective
